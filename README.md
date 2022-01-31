@@ -43,6 +43,10 @@ It seems the current version of ShellCheck fails to find this kind of programmin
 It detects an issue in code like `A && B || C` but it is a different type of problem.
 See ShellScheck [SC2015](https://github.com/koalaman/shellcheck/wiki/SC2015) regarding `A && B || C`.
 
+## Code snippets
+
+See [wiki](https://github.com/zeta709/shell-guide/wiki) for code snippets.
+
 ## References
 
 [ShellCheck](https://github.com/koalaman/shellcheck) is a great tool.
